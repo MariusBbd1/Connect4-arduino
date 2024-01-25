@@ -6,6 +6,6 @@ Ceci est le github ou je publierai l'avancement de mon projet de faire un jeu pu
 
 Matériel utilisé : 
 
--Carte Arduino UNO Rev3 SMD
+-Carte Arduino NANO
 
 ...tbc
